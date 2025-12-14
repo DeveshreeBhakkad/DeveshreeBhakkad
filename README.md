@@ -43,8 +43,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshreeBhakkad&theme=tokyonight)
 
 ## 🐍 GitHub Activity (Snake)
-[![Deveshree's GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/DeveshreeBhakkad)
-
+[![Deveshree's GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?theme=dark)](https://github.com/DeveshreeBhakkad)
 
 ---
 
