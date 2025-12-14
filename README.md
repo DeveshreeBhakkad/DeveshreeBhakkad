@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deveshree Bhakkad
 ### Aspiring AI & ML Engineer | Turning Data into Intelligent Solutions
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Turning+Ideas+into+AI+Projects;Python+%7C+ML+%7C+Data+Science;Let's+Build+Together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=600&lines=Turning+Ideas+into+AI+Projects;Python+%7C+ML+%7C+Data+Science;Let's+Build+Together!)
 
 💡 Currently exploring **Deep Learning, Generative AI, SQL, Plotly, Power BI & Excel**  
 📈 Passionate about solving **real-world AI & Data problems**
@@ -42,8 +42,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshreeBhakkad&theme=tokyonight)
 
-## 🐍 GitHub Activity (Snake Graph)
-[![Deveshree's GitHub Snake](https://github.com/DeveshreeBhakkad/github-contribution-grid-snake.svg)](https://github.com/DeveshreeBhakkad)
+## 🐍 GitHub Activity (Snake)
+[![Deveshree's GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/DeveshreeBhakkad)
+
 
 ---
 
