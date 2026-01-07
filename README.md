@@ -42,10 +42,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshreeBhakkad&theme=tokyonight)
 
-## 🐍 GitHub Activity (Snake)
-[![Deveshree's GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?theme=dark&background=1D1D1D&square=12&speed=50)](https://github.com/DeveshreeBhakkad)
 
----
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: [Deveshree Bhakkad](https://www.linkedin.com/in/deveshree-bhakkad)  
