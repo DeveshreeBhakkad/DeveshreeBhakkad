@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&width=600&lines=Turning+Ideas+into+AI+Projects;Python+%7C+ML+%7C+Data+Science;Let's+Build+Together!)
 
-💡 Currently exploring **Deep Learning, Generative AI, SQL, Plotly, Power BI & Excel**  
+💡 Currently exploring **Deep Learning, Generative AI, SQL, Python**  
 📈 Passionate about solving **real-world AI & Data problems**
 
 ---
@@ -55,7 +55,7 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*  \nLet's **build, learn, and grow together!**
+⭐ *Thanks for visiting my GitHub profile!*  \n Let's **build, learn, and grow together!**
 
 
 
