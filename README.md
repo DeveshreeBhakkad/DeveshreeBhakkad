@@ -187,6 +187,39 @@
 
 ---
 
+## 🌟 Beyond The Code
+
+> *"The best engineers aren't just great coders — they're great communicators."*
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|----------------|-----------|
+| 🥇 **Gold Medalist** | Top academic performer at college level |
+| 🎙️ **Toastmasters President** | Led the club for a full year, managing members, events & growth |
+| 🧭 **Toastmasters Adviser** | Mentored members before stepping up as President |
+| 🏆 **Best Speaker Award** | Won twice — recognized for clarity, confidence & impact |
+| 🎓 **Toastmasters Triple Level** | Completed 3 official levels — rare achievement in the program |
+
+</div>
+
+<div align="center">
+
+### What This Means 💡
+
+```
+Technical skills get you noticed.
+Communication skills get you selected.
+Leadership experience sets you apart.
+```
+
+A researcher who can **explain complex AI** to any audience
+is worth 10x more than one who can't 🎯
+
+</div>
+
+---
+
 ## 🏆 Trophy Room
 
 <div align="center">
