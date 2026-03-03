@@ -1,155 +1,222 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deveshree%20Bhakkad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=16"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=300&section=header&text=Deveshree%20Bhakkad&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=I%20don%27t%20just%20write%20code.%20I%20build%20minds.&descAlignY=58&descSize=20&stroke=ffffff&strokeWidth=1"/>
 
-<!-- Typing Animation -->
+</div>
+
+<!-- TYPING INTRO -->
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Final+Year+AIML+Student+%F0%9F%8E%93;Building+AI+that+actually+works+%F0%9F%A4%96;Deep+Learning+%7C+GenAI+%7C+Computer+Vision;Turning+Data+into+Intelligent+Solutions+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=B57BFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Final+Year+AIML+Engineer+%F0%9F%A7%AC;I+build+AI+that+thinks+%F0%9F%A4%96+feels+%F0%9F%8E%AD+and+reasons+%F0%9F%94%AC;8.5+CGPA+%7C+7%2B+Projects+%7C+Real+Deployments+%F0%9F%9A%80;Currently+hunting+Research+Internship+%40+IIT+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=DeveshreeBhakkad&color=blueviolet&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/DeveshreeBhakkad?style=for-the-badge&color=blueviolet)](https://github.com/DeveshreeBhakkad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deveshree-bhakkad)
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-%20Deveshree%20Bhakkad-%23B57BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/deveshree-bhakkad)
+[![Gmail](https://img.shields.io/badge/-bhakkkaddeveshree%40gmail.com-%23B57BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:bhakkkaddeveshree@gmail.com)
+[![GitHub](https://img.shields.io/badge/-DeveshreeBhakkad-%23B57BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/DeveshreeBhakkad)
+![Visitors](https://komarev.com/ghpvc/?username=DeveshreeBhakkad&color=B57BFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌸 About Me
+<!-- WHO AM I - TERMINAL STYLE -->
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class Deveshree:
-    def __init__(self):
-        self.name        = "Deveshree Bhakkad"
-        self.role        = "Final Year B.Tech AIML Student"
-        self.cgpa        = 8.5
-        self.location    = "India 🇮🇳"
-        self.email       = "bhakkkaddeveshree@gmail.com"
+```bash
+┌──(deveshree㉿aiml-engineer)-[~/life]
+└─$ whoami
 
-    def current_focus(self):
-        return [
-            "🧠 Deep Learning & Neural Architectures",
-            "✨ Generative AI & LLM Applications",
-            "👁️ Computer Vision & Emotion Analytics",
-            "🔍 Seeking Research Internship @ IIT/IIIT"
-        ]
+  Name     : Deveshree Bhakkad
+  Role     : Final Year B.Tech AIML Student
+  CGPA     : 8.5 / 10 ★★★★☆
+  Location : India 🇮🇳
+  Status   : Seeking Research Internship @ IIT/IIIT
+  Passion  : Building AI that solves real problems
 
-    def fun_fact(self):
-        return "I believe every dataset has a story — I just help tell it 📖"
+┌──(deveshree㉿aiml-engineer)-[~/life]
+└─$ cat current_obsessions.txt
+
+  → Making machines that understand humans 🧠
+  → Generative AI & LLM architectures ✨
+  → Computer Vision that sees beyond pixels 👁️
+  → Deploying ML into real-world products 🚀
+
+┌──(deveshree㉿aiml-engineer)-[~/life]
+└─$ echo $FUN_FACT
+
+  "I debug code at 2AM and still call it fun 🌙"
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## ⚡ My Arsenal
 
 <div align="center">
 
-**Languages & Core**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🧠 AI / ML
+<div align="center">
 
-**AI / ML / DL**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Generative AI & LLMs**
-
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-black?style=flat-square&logo=python&logoColor=white)
 
 </div>
+</td>
+<td valign="top" width="33%">
 
----
-
-## 🚀 Featured Projects
-
+### ✨ GenAI & Dev
 <div align="center">
 
-| 🔬 Project | 💡 What it does | 🛠 Stack | 🔗 |
-|-----------|----------------|---------|-----|
-| **🧠 NestMind Chatbot** | Context-aware multi-chat AI with nested memory architecture | Gemini API, Streamlit, Python | [Live Demo](https://nested-chatbot.streamlit.app) |
-| **🎭 Emotion Analytics** | Real-time facial emotion recognition with analytics dashboard | DeepFace, OpenCV, TensorFlow | [Repo](https://github.com/DeveshreeBhakkad/Real-time-emotion-analytics) |
-| **📰 Fake News Detector** | ML model to classify fake vs real news from text | Scikit-learn, NLP, Python | [Repo](https://github.com/DeveshreeBhakkad/Fake_News_Detector) |
-| **🚗 ANPR System** | Automatic Number Plate Recognition using Computer Vision | OpenCV, Python, CV | [Repo](https://github.com/DeveshreeBhakkad/ANPR-System) |
-| **💳 Smart Expense Tracker** | Bank statement analyzer with PDF/CSV support & insights | Flask, pdfplumber, ReportLab | [Live Demo](https://smart-expense-tracker-8e3h.onrender.com) |
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=Streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 📊 Data & Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Projects That Speak Louder Than Words
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeveshreeBhakkad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshreeBhakkad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://nested-chatbot.streamlit.app">
+<img src="https://img.shields.io/badge/🧠_NestMind_Chatbot-LIVE%20DEMO-B57BFF?style=for-the-badge&logoColor=white"/>
+</a>
 
-</div>
+> *What if AI remembered context the way humans actually think — in layers?*
+>
+> Multi-chat memory-aware AI assistant with nested architecture • **Gemini API + Streamlit**
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshreeBhakkad&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<a href="https://github.com/DeveshreeBhakkad/Real-time-emotion-analytics">
+<img src="https://img.shields.io/badge/🎭_Emotion_Analytics_Dashboard-VIEW_PROJECT-FF6B9D?style=for-the-badge&logoColor=white"/>
+</a>
+
+> *Reading faces in real-time and turning emotions into beautiful analytics*
+>
+> Live webcam emotion detection with session insights dashboard • **DeepFace + OpenCV + TensorFlow**
+
+<br/>
+
+<a href="https://github.com/DeveshreeBhakkad/Fake_News_Detector">
+<img src="https://img.shields.io/badge/📰_Fake_News_Detector-VIEW_PROJECT-00D4AA?style=for-the-badge&logoColor=white"/>
+</a>
+
+> *Teaching machines to spot lies so humans don't have to*
+>
+> NLP-powered fake news classification model • **Scikit-learn + Python**
+
+<br/>
+
+<a href="https://github.com/DeveshreeBhakkad/ANPR-System">
+<img src="https://img.shields.io/badge/🚗_ANPR_System-VIEW_PROJECT-FFB347?style=for-the-badge&logoColor=white"/>
+</a>
+
+> *Giving cameras the ability to read number plates in real time*
+>
+> Automatic Number Plate Recognition using Computer Vision • **OpenCV + Python**
+
+<br/>
+
+<a href="https://smart-expense-tracker-8e3h.onrender.com">
+<img src="https://img.shields.io/badge/💳_Smart_Expense_Tracker-LIVE%20DEMO-4FC3F7?style=for-the-badge&logoColor=white"/>
+</a>
+
+> *Because your bank statement shouldn't need a finance degree to understand*
+>
+> PDF/CSV bank statement analyzer with smart insights • **Flask + pdfplumber + ReportLab**
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 My GitHub Story
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshreeBhakkad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=DeveshreeBhakkad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B57BFF&icon_color=B57BFF&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshreeBhakkad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&text_color=ffffff" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshreeBhakkad&theme=tokyonight&hide_border=true&background=0D1117&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/DeveshreeBhakkad/DeveshreeBhakkad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 Trophy Room
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshreeBhakkad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deveshree%20Bhakkad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveshree-bhakkad)
-[![Gmail](https://img.shields.io/badge/Gmail-bhakkkaddeveshree%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhakkkaddeveshree@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DeveshreeBhakkad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshreeBhakkad)
+<br/>
+
+*✦ ✦ ✦*
+
+### 💜 What Drives Me
+
+> *"I don't build projects to add to my resume.*
+> *I build them because I'm genuinely curious about*
+> *what machines can understand, feel, and create."*
+
+*✦ ✦ ✦*
+
+<br/>
+
+**If my work resonates with you — let's connect and build something meaningful together 🚀**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Let%27s%20Build%20Something%20Meaningful&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ Quote I Live By
-*"The power to change your life has always been inside you.*
-*All it takes is courage to start and persistence to continue."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-
-
