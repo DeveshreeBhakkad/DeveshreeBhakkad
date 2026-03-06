@@ -220,15 +220,6 @@ is worth 10x more than one who can't 🎯
 
 ---
 
-## 🏆 Trophy Room
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshreeBhakkad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <div align="center">
 
